@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second elegy to the memory of that worthy gentleman Collonel Thomas Blood vvho departed this life on the 26th of August 1680.  With a detection of several aspersions thrown upon him by popish malice to blast his memory.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09991</idno><idno type="EEBO-CITATION">69648908</idno>
+  <idno type="VID">185066</idno>
+  <idno type="EEBO-PROQUEST">2240883852</idno>
+  
+            <idno type="STC">Wing S2276B</idno>
+            <idno type="STC">ESTC R183665</idno>
+            <idno type="OCLC">69648908</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185066)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second elegy to the memory of that worthy gentleman Collonel Thomas Blood vvho departed this life on the 26th of August 1680.  With a detection of several aspersions thrown upon him by popish malice to blast his memory.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Blood, Thomas, 1618?-1680 --  Death and burial.</term>
+               <term type="topical_term">Elegiac poetry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Epitaphs --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:185066:1"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of skull, bones, shovel, and sickle</figDesc>
+                  <p>MEMENTO MORI</p>
+               </figure>
+            </head>
+            <head>A SECOND ELEGY To the Memory of That Worthy Gentleman Collonel Thomas Blood VVho departed this life on the 26th of <hi>August</hi> 1680. With a detection of several As<g ref="char:EOLhyphen"/>persions thrown upon him by Popish Malice to blast his Memory.</head>
+            <lg>
+               <l>STand back <hi>Rome</hi>'s envious Scriblers, here's no place,</l>
+               <l>No wounding malice can this Tomb deface;</l>
+               <l>This everlasting Monument's too great</l>
+               <l>For all the <hi>Roman</hi> Priests or Imps of Fate,</l>
+               <l>To level with the dust: These Lawrels bloome</l>
+               <l>Beyond what Time can wither or consume;</l>
+               <l>Set by the hands of <hi>Fame</hi> they smile at Death,</l>
+               <l>Nor fear the blast of any humane breath:</l>
+               <l>Brave <hi>Bedlo</hi>'s Second, one whose courage durst</l>
+               <l>Dare haughty <hi>Rome,</hi> in spight of her be just.</l>
+               <l>Though black mouth'd Envy sullies now those bayes,</l>
+               <l>Which once from her had power to gain the praise</l>
+               <l>Of valiant, wise, and good; things though most true</l>
+               <l>In him, yet more than ever <hi>Roman</hi> knew</l>
+               <l>In he who calls himself the Churches head.</l>
+               <l>Whose pride aspires on Princes necks to tread.</l>
+               <l>But is he gone, and has the Fates been kind,</l>
+               <l>Say, Sir, for by these words we know your mind.</l>
+               <l>Puny Adorer of the Scarlet Beast,</l>
+               <l>Fates Darling, who on Blood canst only feast,</l>
+               <l>Thou art mistook, here thou hast mist thy prey,</l>
+               <l>This <hi>Blood</hi> shall not thy burning thirst allay;</l>
+               <l>He's made immortal from thy reach convey'd,</l>
+               <l>More Happy now than if he'd longer staid</l>
+               <l>Turmoil'd in cares on Earth; but stay, lets see</l>
+               <l>If <hi>Rome</hi> owns Merits, death must Sainted be;</l>
+               <l>Have Incense blaze before his dreadful shrine,</l>
+               <l>Because he was so lucky for to joyn</l>
+               <l>With Traytors in their wish, and us bereave</l>
+               <l>Of those who did the Nations undeceive.</l>
+               <l>Heroick <hi>Bedloe</hi> first who 'f living yet,</l>
+               <l>The Priests ne'r durst have peep'd abroad t' ave writ;</l>
+               <l>But like the <hi>Frogs</hi> before <hi>Jove</hi>'s <hi>Stork</hi> have fled,</l>
+               <l>Whilst his terrifick name had struck such dread</l>
+               <l>As would have made them left both Beeds and Cools,</l>
+               <l>And yet for fear lain croaking in their holes.</l>
+               <l>The next our Warriour, the renowned <hi>Blood,</hi>
+               </l>
+               <l>Who only liv'd to do his Country good:</l>
+               <l>In arms grown famous, and in strength compleat,</l>
+               <l>Yet meek and humble, which pronounc'd him great.</l>
+               <l>The true Idea of a Heroe just,</l>
+               <l>In whom the god of War might safely trust,</l>
+               <l>And leave to him the business of the field,</l>
+               <l>So often tryed yet never known to yeild;</l>
+               <l>But on the Edge of Battle often seen</l>
+               <l>To drive the Squadrons back, and force between</l>
+               <l>The Ridges of grim War, whilst with his blade</l>
+               <l>Amongst a thousand deaths he passage made,</l>
+               <l>So fierce in arms, that nought his Courage staid:</l>
+               <l>Then 'tis no wonder, that the testy Rout</l>
+               <l>Of Treason Brooders, joy his Lamp is out;</l>
+               <l>For though their game is death they play not fair,</l>
+               <l>'Tis Massacres they love, but hate a War</l>
+               <l>Unless with great advantage they can rise,</l>
+               <l>And the unthinking Innocents surprise,</l>
+               <l>So glut themselves with humane Sacrifice,</l>
+               <l>Which shews them base born, Cowards only fit:</l>
+               <l>With Martyrs blood to fill <hi>Romes</hi> cup, and yet</l>
+               <l>These are the men that would suppress the Name</l>
+               <l>Of him recorded in the Book of <hi>Fame:</hi>
+               </l>
+               <l>He whom to after Ages we translate</l>
+               <l>The Man that lives in spight of Tyrant Fate.</l>
+               <l>In Counsels deep, indued with parts divine,</l>
+               <l>That from his sober mene did brighter shine</l>
+               <l>Then all the feigned rayes of gold made Saints,</l>
+               <l>Or Traytors dying Martyrs Crowns they paint:</l>
+               <l>His words were serious mixt with wit sublime,</l>
+               <l>True to his Friend in this perfidious time,</l>
+               <l>Yet envied 'cause his narrow searching eye</l>
+               <l>Did into <hi>Romes</hi> obscurest secrets pry,</l>
+               <l>As loath to see his Country quite undone</l>
+               <l>By those he knew would no dire mischeif shun.</l>
+               <l>His end was pious, for with his last breath,</l>
+               <l>He pray'd for's Foes, and fearless met grim Death</l>
+               <l>With open arms not dreading his pale power,</l>
+               <l>Who one stroke gi'n had force to give no more.</l>
+               <l>Then from his breast th' immortal Soul strait flew</l>
+               <l>To Heavens bright Regions, bidding Earth adew.</l>
+            </lg>
+            <div type="epitaph">
+               <head>The EPITAPH.</head>
+               <lg>
+                  <l>UNder this marble Pile, alas, here lies</l>
+                  <l>Great <hi>Blood</hi> whom Death did unawares surprise,</l>
+                  <l>Mistake not, Reader, though 'tis but his dust,</l>
+                  <l>For his heroick Soul's among the Just,</l>
+                  <l>That could not be contain'd, no Earthly Tomb</l>
+                  <l>Could bound that boundless, or afford it room,</l>
+                  <l>But in immortal dwelling that remains,</l>
+                  <l>Pure intellectual, free from Earthly stains.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>T. Davies,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
